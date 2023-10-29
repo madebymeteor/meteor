@@ -8,7 +8,7 @@ The live countdown to Meteor's release is available [here](https://meteorweb.pag
 
 # Why use Meteor?
 | Feature | Meteor | Dashactyl | Heliactyl | MythicalDash | 
-| :---:   | :---: | :---: | :--: | :--: | :--: | :--: |
+| :---:   | :---: | :---: | :--: | :--: |
 | Core features | ✅|✅|✅|✅|
 | Admin API |✅|❌|✅|✅|
 | Billing | ✅|❌|✅|✅|
