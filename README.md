@@ -1,4 +1,4 @@
-![Meteor logo](https://cdn.discordapp.com/attachments/1161650288374063176/1168201863951286332/terraform.png?ex=6550e7c4&is=653e72c4&hm=38b519d09c62012937bb1b2c1fa30fc9cc8dcb30c81e0cb53ff0f520267360c3&)
+![Meteor logo](https://cdn.discordapp.com/attachments/1161650288374063176/1168202516765347940/terraform1.png?ex=6550e860&is=653e7360&hm=885a7f16a5706ee1ff6567bed3d56ca86eeb5bcaf71864089b7b0e1ec163b526&)
 
 # Meteor is coming 
 The next generation Pterodactyl client area. Built for every host - free or paid. Fully customizable and modular, only enable the features you really want.
