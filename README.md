@@ -1,7 +1,8 @@
 # Meteor is coming 
 The next generation Pterodactyl client area. Built for every host - free or paid. Fully customizable and modular, only enable the features you really want.
 
-![GitHub all releases](https://img.shields.io/github/downloads/madebymeteor/meteor/total) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/madebymeteor/meteor)
+![GitHub all releases](https://img.shields.io/github/downloads/madebymeteor/meteor/total) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/madebymeteor/meteor) ![GitHub](https://img.shields.io/github/license/madebymeteor/meteor)
+
 
 # Watch the countdown
 The live countdown to Meteor's release is available [here](https://meteorweb.pages.dev/).
