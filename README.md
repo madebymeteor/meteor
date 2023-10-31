@@ -16,7 +16,7 @@ The live countdown to Meteor's release is available [here](https://meteorweb.pag
 | Admin API |✅|❌|✅|✅|
 | Billing | ✅|❌|✅|✅|
 | Discord J4R |✅|✅|✅|✅|
-| Referrals |✅|✅|✅|✅|
+| Referrals |✅|❌|✅|✅|
 | Modular |✅|❌|❌|❌|
 | Renewal |✅|✅|✅|✅|
 | Anti-alt |✅|✅|✅|❌|
